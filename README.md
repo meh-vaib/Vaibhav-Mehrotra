@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vaibhav-Mehrotra
 - 👀 I’m interested in basically anything that involves tech
-- 🌱 I’m currently learning web-development(front end)
+- 🌱 I’m currently learning web-development(Full Stack)
 - 💞️ I’m looking to collaborate on any new intriguing idea, if in my domain
 - 📫 How to reach me: drop an email at mehrotravaibhav09@gmail.com
 
